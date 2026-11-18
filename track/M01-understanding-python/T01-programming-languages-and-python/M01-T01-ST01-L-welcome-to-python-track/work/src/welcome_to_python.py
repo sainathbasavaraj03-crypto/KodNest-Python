@@ -1,2 +1,8 @@
 print ("hello world")
 print ("hi sainath ")
+print ("welcome to the python track.")
+print ("i already know how to build a programing logic.")
+print ("now i am learning how to express that logic python.")
+print ("my name is sainath.")
+print ("my goal is become a python developer.")
+print ("i selected python because i want to build application using data,automaton and AI.")
